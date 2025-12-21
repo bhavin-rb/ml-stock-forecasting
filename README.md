@@ -91,6 +91,6 @@ This repository will expand into a **series of forecasting methods**:
 
 ## Conclusion
 This project demonstrates how simple regression models can be applied to financial time-series forecasting.  
-By comparing static and dynamic approaches, we highlight the importance of indicator recalculation and the trade-offs between in-sample accuracy and out-of-sample realism.  
+By comparing static and dynamic approaches, we highlight the importance of indicator recalculation and the **trade-offs between in-sample accuracy and out-of-sample realism**.  
 Future work will extend these methods to ARIMA, GARCH, and portfolio-level forecasting.
 
