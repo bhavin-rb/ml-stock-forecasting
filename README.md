@@ -1,6 +1,8 @@
 # ml-stock-forecasting
 # Stock Price Forecasting with Machine Learning
 
+>The first run of this notebook was executed on**December 21, 2025 (EAT)**
+
 ## Introduction
 This project explores stock price forecasting using machine learning and time-series models.  
 We begin with **Apple Inc. (AAPL)** as a single equity case study, applying regression with lag features and technical indicators.  
