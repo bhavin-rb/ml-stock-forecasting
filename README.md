@@ -210,8 +210,15 @@ The portfolio analysis further shows how diversification smooths volatility whil
 Future work will extend these methods to ARIMA, GARCH, and advanced ML/DL models, building on this regression baseline to achieve more robust and realistic forecasts.
 
 ---
----
 
 Thank you for exploring this project!  
 Stay tuned for updates as new forecasting methods are added, and feel free to contribute or share feedback to help refine the journey from regression baselines to advanced ML/DL models.
+
+---
+### Contributing
+
+Contributions are welcome!  
+If you’d like to improve the notebooks, add new forecasting methods, or refine the analysis, please open an issue or submit a pull request.  
+Collaboration helps this project grow from regression baselines into a comprehensive library of financial forecasting techniques.
+
 
